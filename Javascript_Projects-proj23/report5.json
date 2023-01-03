@@ -1,0 +1,433 @@
+{
+  "formatVersion": 0,
+  "pmdVersion": "6.52.0",
+  "timestamp": "2023-01-03T16:52:18.474+05:30",
+  "files": [
+    {
+      "filename": "C:\\Users\\rajashekar\\Desktop\\PMD-Plugin\\Javascript_Projects-proj23\\js\\script.js",
+      "violations": [
+        {
+          "beginline": 42,
+          "begincolumn": 9,
+          "endline": 42,
+          "endcolumn": 44,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 44,
+          "begincolumn": 9,
+          "endline": 44,
+          "endcolumn": 44,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 46,
+          "begincolumn": 9,
+          "endline": 46,
+          "endcolumn": 44,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 48,
+          "begincolumn": 9,
+          "endline": 48,
+          "endcolumn": 44,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 51,
+          "begincolumn": 7,
+          "endline": 51,
+          "endcolumn": 15,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 58,
+          "begincolumn": 5,
+          "endline": 58,
+          "endcolumn": 12,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 59,
+          "begincolumn": 5,
+          "endline": 59,
+          "endcolumn": 14,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 60,
+          "begincolumn": 5,
+          "endline": 60,
+          "endcolumn": 17,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 69,
+          "begincolumn": 7,
+          "endline": 69,
+          "endcolumn": 14,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 70,
+          "begincolumn": 7,
+          "endline": 70,
+          "endcolumn": 20,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 73,
+          "begincolumn": 9,
+          "endline": 73,
+          "endcolumn": 16,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 78,
+          "begincolumn": 9,
+          "endline": 78,
+          "endcolumn": 44,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 80,
+          "begincolumn": 9,
+          "endline": 80,
+          "endcolumn": 44,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 82,
+          "begincolumn": 9,
+          "endline": 82,
+          "endcolumn": 44,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 84,
+          "begincolumn": 9,
+          "endline": 84,
+          "endcolumn": 44,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 86,
+          "begincolumn": 7,
+          "endline": 86,
+          "endcolumn": 14,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 98,
+          "begincolumn": 5,
+          "endline": 98,
+          "endcolumn": 29,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 99,
+          "begincolumn": 5,
+          "endline": 99,
+          "endcolumn": 14,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 110,
+          "begincolumn": 5,
+          "endline": 110,
+          "endcolumn": 27,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 119,
+          "begincolumn": 7,
+          "endline": 119,
+          "endcolumn": 20,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 123,
+          "begincolumn": 7,
+          "endline": 123,
+          "endcolumn": 20,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 126,
+          "begincolumn": 7,
+          "endline": 126,
+          "endcolumn": 14,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 127,
+          "begincolumn": 7,
+          "endline": 127,
+          "endcolumn": 20,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 128,
+          "begincolumn": 7,
+          "endline": 128,
+          "endcolumn": 14,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 130,
+          "begincolumn": 7,
+          "endline": 130,
+          "endcolumn": 14,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 131,
+          "begincolumn": 7,
+          "endline": 131,
+          "endcolumn": 20,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 132,
+          "begincolumn": 7,
+          "endline": 132,
+          "endcolumn": 14,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 143,
+          "begincolumn": 11,
+          "endline": 143,
+          "endcolumn": 40,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 148,
+          "begincolumn": 11,
+          "endline": 148,
+          "endcolumn": 17,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 154,
+          "begincolumn": 11,
+          "endline": 154,
+          "endcolumn": 17,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 158,
+          "begincolumn": 11,
+          "endline": 158,
+          "endcolumn": 17,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 163,
+          "begincolumn": 7,
+          "endline": 163,
+          "endcolumn": 20,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 164,
+          "begincolumn": 7,
+          "endline": 164,
+          "endcolumn": 26,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 168,
+          "begincolumn": 5,
+          "endline": 168,
+          "endcolumn": 15,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 184,
+          "begincolumn": 5,
+          "endline": 184,
+          "endcolumn": 26,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 186,
+          "begincolumn": 5,
+          "endline": 186,
+          "endcolumn": 15,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 240,
+          "begincolumn": 9,
+          "endline": 240,
+          "endcolumn": 13,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        },
+        {
+          "beginline": 241,
+          "begincolumn": 9,
+          "endline": 241,
+          "endcolumn": 20,
+          "description": "Avoid using global variables",
+          "rule": "GlobalVariable",
+          "ruleset": "Best Practices",
+          "priority": 1,
+          "externalInfoUrl": "https://pmd.github.io/pmd-6.52.0/pmd_rules_ecmascript_bestpractices.html#globalvariable"
+        }
+      ]
+    }
+  ],
+  "suppressedViolations": [],
+  "processingErrors": [],
+  "configurationErrors": []
+}
